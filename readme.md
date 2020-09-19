@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://www.hackyourfuture.dk/static/logo-dark.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Meal sharing</h3>
+<h3 align="center">Basic Phonebook-app</h3>
 
 <div align="center">
 
